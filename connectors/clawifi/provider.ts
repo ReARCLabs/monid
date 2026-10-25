@@ -58,7 +58,7 @@ export default defineProvider({
             "blocked page comes back with a diagnosis instead.",
         homepageUrl: "https://clawifi.dev",
         docsUrl: "https://clawifi.dev/docs",
-        categories: ["web-search", "web-scraping"],
+        categories: ["web-search", "web-scraping", "web-extraction"],
         notes: [
             "Clawifi validates every target before sending a request: " +
             "localhost, private and link-local addresses and cloud " +
